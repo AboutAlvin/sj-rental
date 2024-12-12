@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-rentalmobilbatam.id	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
-rentalmobilbatam.id	TRUE	/	FALSE	1999999999	wp_woocommerce_session_0ca558cd56ad65cabc1d7799f498e9b8	t_2984aa59fb488764baabd1260b9c05%7C%7C1734174035%7C%7C1734170435%7C%7C8adcdd4eec60624819a8a5c4dc177fdb
-rentalmobilbatam.id	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	199374c7714ff3199d05fd8fed24465f
-
