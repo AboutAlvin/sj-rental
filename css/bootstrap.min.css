@@ -8048,6 +8048,10 @@ button.bg-dark:focus {
     width: 50% !important
 }
 
+.w-65 {
+    width: 65% !important
+}
+
 .w-75 {
     width: 75% !important
 }
